@@ -12,7 +12,11 @@ function Footer() {
             Ready to elevate <span className='text-black-100'>your</span> tech projects to the next level.
             </h1>
             <p className='text-white-200 md:mt-10 my-5 text-center'>Reach out and connect with me.</p>
-            <a href='nitinpeter147@gmail.com'>
+             <a 
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=nitinpeter147@gmail.com" 
+                target="_blank" 
+                rel="noopener noreferrer"
+            >
                 <MagicButton
                 title="let's get in touch"
                 icon={<FaLocationArrow/>}
