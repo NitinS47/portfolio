@@ -227,7 +227,11 @@ export const BentoGridItem = ({
                 }} height={200} width={400} /> */}
               </div>
 
-              <a href='nitinpeter147@gmail.com'>
+               <a 
+                href="https://mail.google.com/mail/?view=cm&fs=1&to=nitinpeter147@gmail.com" 
+                target="_blank" 
+                rel="noopener noreferrer"
+            >
                               <MagicButton
                               title="let's get in touch"
                               icon={<FaLocationArrow/>}
