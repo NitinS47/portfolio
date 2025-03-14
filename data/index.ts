@@ -109,14 +109,14 @@ export const testimonials = [
     quote:
       "I have collaborated with Nitin on multiple projects, he is a hard worker a go getter and any project we have worked on he has brought life he gives his all, he has a great personality and is someone you definitely want to colaborate in the future",
     name: "Ryan Netto",
-    title: "Ex-Intern at CGI",
+    title: "ex-Intern at CGI",
     src: "/Ryan.jpeg",
   },
   {
     quote:
       "Nitin is an exceptional teammate and a true asset to any team. There were moments when I faced challenges, and Nitin consistently stepped up, delivering outstanding support and solutions.",
     name: "Rejoy Cherian Regi",
-    title: "Ex-Intern at Tech Avant Garde",
+    title: "ex-Intern at Tech Avant Garde",
     src: "/Rejoy.jpeg",
   },
   {
@@ -131,21 +131,21 @@ export const testimonials = [
     quote:
       "Working with Nitin has been an exceptional experience. He brings a unique blend of technical knowledge and creativity to every project. With a strong commitment to innovation and a passion for learning, Nitin is a dedicated professional who adds immense value to any team.",
     name: "Joed Thomas Jackson",
-    title: "Information Security Intern at SmartQ",
+    title: "ex-Information Security Intern at SmartQ",
     src: "/Joed.png",
   },
   {
     quote:
       "Collaborating with Nitin was an absolute pleasure. His expertise, dedication, and ability to deliver exceptional results were evident throughout our project. Nitin’s enthusiasm for every aspect of development, networking, and AIML truly sets him apart. If you’re looking for a versatile professional to elevate your project, Nitin is the perfect choice.",
     name: "Allen Tomy",
-    title: "Ex-Intern at UniBites",
+    title: "ex-Intern at 1M1B",
     src: "/Allen.jpeg",
   },
   {
     quote:
       "Working with Nitin has been an incredible experience. His problem-solving skills, adaptability, and deep knowledge in AIML, development, and networking make him an invaluable teammate. Nitin's consistent support and proactive approach ensure that every project we tackle together exceeds expectations. He's truly someone you can rely on to get the job done right.",
     name: "Noel John Varghese",
-    title: "Ex-Intern at DRDO",
+    title: "ex-Intern at DRDO",
     src: "/Noel.jpeg",
   },
 ];
