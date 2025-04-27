@@ -106,7 +106,7 @@ export const projects = [
     id: 5,
     title: "Weather Prediction & Flight Path Optimization",
     des: "AI model using A* search algorithm and multiple linear regression.",
-    img: "/flightpath.jpeg",
+    img: "/flighpath.jpeg",
     iconLists: [],
     link: "https://github.com/NitinS47/Aviation_weather_optimization",
   },
@@ -147,7 +147,7 @@ export const testimonials = [
     quote:
       "Working with Nitin has been an exceptional experience. He brings a unique blend of technical knowledge and creativity to every project. With a strong commitment to innovation and a passion for learning, Nitin is a dedicated professional who adds immense value to any team.",
     name: "Joed Thomas Jackson",
-    title: "ex-Information Security Intern at SmartQ",
+    title: "ex-Information Security Intern at SmartQ and coFounder NammaPG",
     src: "/Joed.png",
   },
   {
