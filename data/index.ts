@@ -102,6 +102,22 @@ export const projects = [
     iconLists: [],
     link: "https://github.com/NitinS47/F1CarIdentification",
   },
+  {
+    id: 5,
+    title: "Weather Prediction & Flight Path Optimization",
+    des: "AI model using A* search algorithm and multiple linear regression.",
+    img: "/flightpath.jpeg",
+    iconLists: [],
+    link: "https://github.com/NitinS47/Aviation_weather_optimization",
+  },
+  {
+    id: 6,
+    title: "NammaPG",
+    des: "Web Application to Search and rent PGs nearby. Currently in Development Phase.",
+    img: "/nammapg.jpeg",
+    iconLists: [],
+    link: "https://v0-next-js-webapp-creation-dlq7z8.vercel.app/",
+  },
 ];
 
 export const testimonials = [
@@ -166,6 +182,26 @@ export const companies = [
 export const workExperience = [
   {
     id: 1,
+    year: 2025,
+    details: {
+      title: "co-Founder of NammaPG",
+      desc: "A software startup that helps students find a place to stay easily by directly connecting the owners and users by eliminating the need for a middleman.",
+      thumbnail: "/nammapg.jpeg",
+    },
+    gridSpan: "md:col-span-2",
+  },
+  {
+    id: 2,
+    year: 2025,
+    details: {
+      title: "ML Intern at Plasmid",
+      desc: "Developed a Fraud Detection System using machine learning to classify online payment transactions as fraudulent or non-fraudulent, with data visualization and real-time prediction capabilities.",
+      thumbnail: "/plasmid.jpeg",
+    },
+    gridSpan: "md:col-span-2",
+  },
+  {
+    id: 3,
     year: 2024,
     details: {
       title: "SWO Website",
@@ -175,27 +211,27 @@ export const workExperience = [
     gridSpan: "md:col-span-2",
   },
   {
-    id: 2,
+    id: 4,
     year: 2024,
     details: {
       title: "Team Midnight",
-      desc: "Started a Community of Muscicians in Christ University Kengeri Campus. Currently consists of 2 Bands and an Acapella Group ",
+      desc: "Started a Community of Muscicians in Christ University Kengeri Campus.",
       thumbnail: "/exp2.svg",
     },
     gridSpan: "md:col-span-2",
   },
   {
-    id: 3,
+    id: 5,
     year: 2024,
     details: {
       title: "Event Head of ASCII",
-      desc: "I am currently the Event Management Head of ASCII for the academic year 2024-25.",
+      desc: "I was the Event Management Head of ASCII for the academic year 2024-25.",
       thumbnail: "/exp3.svg",
     },
     gridSpan: "md:col-span-2",
   },
   {
-    id: 4,
+    id: 6,
     year: 2024,
     details: {
       title: "AIML Intern at Tech Avant Garde",
@@ -205,7 +241,7 @@ export const workExperience = [
     gridSpan: "md:col-span-2",
   },
   {
-    id: 5,
+    id: 7,
     year: 2024,
     details: {
       title: "Frontend Intern at Nexus Software",
