@@ -201,7 +201,7 @@ export const BentoGridItem = ({
             </div>
           )}
 
-          {id === 4 && <EvervaultCard text="Specialized in CyberSecurity"/>}
+          {id === 4 && <EvervaultCard text="Specialized in Machine Learning"/>}
           {id === 5 && <div className="h-[20rem] flex justify-center items-center px-4">
       <div className="text-4xl mx-auto font-normal text-neutral-600 dark:text-neutral-400">
         I am Flexible in
