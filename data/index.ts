@@ -114,7 +114,7 @@ export const projects = [
     id: 6,
     title: "Cea AI",
     des: "Virtual AI therapist.",
-    img: "/CeaLogo.jpeg",
+    img: "/CeaLogo.PNG",
     iconLists: [],
     link: "https://v0-next-js-webapp-creation-dlq7z8.vercel.app/",
   },
