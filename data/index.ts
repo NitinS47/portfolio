@@ -113,10 +113,10 @@ export const projects = [
   {
     id: 6,
     title: "Cea AI",
-    des: "Virtual AI therapist.",
+    des: "Virtual AI therapist, using Llamma4 LLM and Groq API.",
     img: "/CeaLogo.jpeg",
     iconLists: [],
-    link: "https://v0-next-js-webapp-creation-dlq7z8.vercel.app/",
+    link: "https://cea-pi.vercel.app/",
   },
 ];
 
