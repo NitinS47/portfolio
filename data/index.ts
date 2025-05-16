@@ -112,9 +112,9 @@ export const projects = [
   },
   {
     id: 6,
-    title: "NammaPG",
-    des: "Web Application to Search and rent PGs nearby. Currently in Development Phase.",
-    img: "/nammapg.jpeg",
+    title: "Cea AI",
+    des: "Virtual AI therapist.",
+    img: "/CeaLogo.jpeg",
     iconLists: [],
     link: "https://v0-next-js-webapp-creation-dlq7z8.vercel.app/",
   },
