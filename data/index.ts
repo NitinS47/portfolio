@@ -180,21 +180,12 @@ export const companies = [
 ];
 
 export const workExperience = [
-  {
-    id: 1,
-    year: 2025,
-    details: {
-      title: "co-Founder of NammaPG",
-      desc: "A software startup that helps students find a place to stay easily by directly connecting the owners and users by eliminating the need for a middleman.",
-      thumbnail: "/nammapg.jpeg",
-    },
-    gridSpan: "md:col-span-2",
-  },
+
   {
     id: 2,
     year: 2025,
     details: {
-      title: "ML Intern at Plasmid",
+      title: "ML Intern at Nusyn Digital Solutions",
       desc: "Developed a Fraud Detection System using machine learning to classify online payment transactions as fraudulent or non-fraudulent, with data visualization and real-time prediction capabilities.",
       thumbnail: "/plasmid.jpeg",
     },
