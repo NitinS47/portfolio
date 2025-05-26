@@ -112,7 +112,7 @@ export const projects = [
   },
   {
     id: 6,
-    title: "Cea AI",
+    title: "Cea AI(beta version)",
     des: "Virtual AI therapist, using Llamma4 LLM and Groq API.",
     img: "/CeaLogo.jpeg",
     iconLists: [],
