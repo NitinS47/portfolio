@@ -59,7 +59,8 @@ const RecentProjects = () => {
         ))}
       </div>
     </div>
-      <section/>
+      </section>
+
   );
 };
 
