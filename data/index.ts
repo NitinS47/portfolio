@@ -118,6 +118,14 @@ export const projects = [
     iconLists: [],
     link: "https://cea-pi.vercel.app/",
   },
+  {
+    id: 7,
+    title: "DUK",
+    des: "Social Networking Web Application to find people with similar interests in life.",
+    img: "/duk.jpeg",
+    iconLists: [],
+    link: "https://duk-e10q.onrender.com/",
+  },
 ];
 
 export const testimonials = [
