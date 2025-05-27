@@ -6,6 +6,7 @@ import { CardBody, CardContainer, CardItem } from "./ui/3d-card";
 
 const RecentProjects = () => {
   return (
+    <section id='projects'>
     <div className="py-20"> {/* Keep the webpage background light */}
       <h1 className="heading">
         A small selection of{" "}
@@ -58,6 +59,7 @@ const RecentProjects = () => {
         ))}
       </div>
     </div>
+      <section/>
   );
 };
 
