@@ -132,7 +132,7 @@ export const projects = [
     des: "A neural network simulation using only javascript.",
     img: "/selfdriving.jpeg",
     iconLists: [],
-    link: "https://duk-e10q.onrender.com/",
+    link: "https://github.com/NitinS47/selfdriving",
   },
 ];
 
