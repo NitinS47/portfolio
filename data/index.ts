@@ -126,6 +126,14 @@ export const projects = [
     iconLists: [],
     link: "https://duk-e10q.onrender.com/",
   },
+  {
+    id: 8,
+    title: "Self Driving Car",
+    des: "A neural network simulation using only javascript.",
+    img: "/selfdriving.jpeg",
+    iconLists: [],
+    link: "https://duk-e10q.onrender.com/",
+  },
 ];
 
 export const testimonials = [
